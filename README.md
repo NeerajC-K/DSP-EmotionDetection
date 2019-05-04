@@ -1,5 +1,5 @@
 # DSP-EmotionDetection
-TFID.ipynb contains code for Emotion detection using TFIDF, it refers to classes DataClean.py and replacers.py for Datapreprocessing
+TFID.ipynb contains code for Emotion detection using TF-IDF, it refers to classes DataClean.py and replacers.py for Datapreprocessing
 and Data Modelling
 
 CNNModel.ipynb contains code for Emotion Detection using Word2Vec and CNN, it refers to classes DataClean.py and replacers.py for Datapreprocessing
